@@ -1,5 +1,6 @@
 # LiterAlura
 Projeto LiterAlura by alura / oracle One
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/6fca6823-02a4-4e55-a93e-bcde19c07b9a" />
 
 **Descrição:**
 
@@ -11,5 +12,6 @@ Desenvolvido com base nas aulas de Spring disponibilizadas pela Alura com Oracle
 * JAVA
 * SpringBoot
 * PostgreSQL
+
 
 
